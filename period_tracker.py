@@ -51,7 +51,7 @@ def main():
         elif choice == "2":
             show_history()
         elif choice == "3":
-            print("Goodbye! Stay healthy and hydrated3! 🌸")
+            print("Goodbye! Stay healthy and hydrated! 🌸")
             break
         else:
             print("Invalid choice. Please try again.")
